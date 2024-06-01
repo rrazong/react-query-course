@@ -5,7 +5,6 @@ export default function Issues() {
     <div>
       <main>
         <section>
-          <h1>Issues</h1>
           <IssuesList />
         </section>
         <aside>
